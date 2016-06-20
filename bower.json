@@ -1,0 +1,28 @@
+{
+  "name": "bootstrap-eurofurence",
+  "authors": [
+    "Requinard <contact@terarion.com>"
+  ],
+  "description": "An EF themed version of bootstrap",
+  "main": "",
+  "keywords": [
+    "ef",
+    "bootstrap",
+    "theme"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  },
+  "devDependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
